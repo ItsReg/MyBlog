@@ -9,8 +9,7 @@ import react from '@astrojs/react';
 // https://astro.build/config
 export default defineConfig({
 	// site: siteConfig.site,
-	site: 'https://itsreg.github.io/MyBlog',
-	base:'/MyBlog',
+	site: 'https://itsreg.github.io/',
 	output: 'static',
 	markdown: {
 		remarkPlugins: [remarkReadingTime],
