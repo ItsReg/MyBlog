@@ -9,7 +9,7 @@ import react from '@astrojs/react';
 // https://astro.build/config
 export default defineConfig({
 	// site: siteConfig.site,
-	site: 'https://itsreg.github.io/MyBlog',
+	site: 'https://itsreg.github.io/',
 	// base:'/MyBlog',
 	output: 'static',
 	markdown: {
