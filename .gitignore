@@ -22,5 +22,8 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
+.vscode
+.husky
+.github
 
 node_modules
