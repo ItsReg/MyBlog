@@ -10,7 +10,7 @@ import react from '@astrojs/react';
 export default defineConfig({
 	// site: siteConfig.site,
 	site: 'https://itsreg.github.io/MyBlog',
-	base:'/MyBlog',
+	// base:'/MyBlog',
 	output: 'static',
 	markdown: {
 		remarkPlugins: [remarkReadingTime],
