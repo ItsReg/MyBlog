@@ -11,7 +11,7 @@ interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
 	site: 'https://sandeeptrycatch.com/', // Write here your website url
-	author: 'Sandeep Kumar Srivastava', // Site author
+	author: 'Sandeep', // Site author
 	title: 'Knowledge Blog', // Site title.
 	description:
 		'This site is to enhance your technical knowledge which gives you confidence and power to do more. Thats what my aim is.', // Description to display in the meta tags
